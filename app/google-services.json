@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569871508279",
+    "project_id": "drawyourcomfirebaseoc",
+    "storage_bucket": "drawyourcomfirebaseoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569871508279:android:8be9844f36e6473592f0b2",
+        "android_client_info": {
+          "package_name": "com.drawyourcom.firebaseoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569871508279-2vf4heicn86qpke8395ogjllim3j715b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drawyourcom.firebaseoc",
+            "certificate_hash": "6cb72afeef48cc1a48f220d831f7757e1c2f565c"
+          }
+        },
+        {
+          "client_id": "569871508279-bp5vvhalu10vfag0qk9gf1kpj5c6qa8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyP6EsYibnM6X9MtkiSlpkOwnEWpMD10I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569871508279-bp5vvhalu10vfag0qk9gf1kpj5c6qa8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
